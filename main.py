@@ -1,4 +1,6 @@
 a = 10
 b = 30
+d = 10
 c = b -a
-print(c)
+f = d-c
+print(f)
